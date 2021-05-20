@@ -11,7 +11,7 @@
 <body>
 <div class="contaner">
 
-<h1 style="text-align: center;">Balitora Ramkrishna sishu vidyapith</h1>
+<h1 style="text-align: center;">Show</h1>
 <h3 style="text-align: center;">Result</h3>
 <form action="result.php" method="post">
 
